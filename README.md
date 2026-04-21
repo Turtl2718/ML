@@ -1,2 +1,3 @@
-# ML
-RDKit testing ground for me
+# Machine Learning in Drug Design
+
+
